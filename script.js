@@ -1,2 +1,2 @@
 console.log('ok');
-alert('wow cuman tes git')
+alert('wow cuman tes git');
